@@ -13,8 +13,6 @@ This project enables mass joining of Minecraft servers by creating multiple bots
 
 ![Exemple](screenshot.png)
 
-Replace `screenshot.png` with the actual relative path to your screenshot file.
-
 ## Installation
 
 ### Installation Steps
