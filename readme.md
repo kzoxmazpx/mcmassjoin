@@ -7,6 +7,7 @@ This project enables mass joining of Minecraft servers by creating multiple bots
 - Creates multiple Minecraft bots that join a specified server.
 - Uses random usernames from a `pseudo.txt` file.
 - Handles events such as connections, disconnections, kicks, and errors for each bot.
+- Run `generatorpseudo.js` to generate nicknames for bots.
 
 ## Screenshot
 
