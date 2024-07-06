@@ -1,7 +1,7 @@
 {
   "name": "MASS-JOIN",
   "version": "1.2",
-  "description": "Afk bot for minecraft servers.",
+  "description": "Mass join serveur minecraft",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
