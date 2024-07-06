@@ -17,7 +17,11 @@ This project enables mass joining of Minecraft servers by creating multiple bots
 
 ### Installation Steps
 
-1. **Clone the repository**
+1. **Installer Dependences :**
+   ```bash
+   npm install mineflayer mineflayer-pathfinder expres
+
+2. **Clone the repository**
    ```bash
    git clone https://github.com/kzoxmazpx/mcmassjoin.git
    cd mcmassjoin
