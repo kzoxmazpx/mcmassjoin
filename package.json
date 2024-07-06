@@ -1,0 +1,17 @@
+{
+  "name": "MASS-JOIN",
+  "version": "1.2",
+  "description": "Afk bot for minecraft servers.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "urFate",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mineflayer": "^4.20.1",
+    "mineflayer-pathfinder": "^1.10.0",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}

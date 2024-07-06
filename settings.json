@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "bot",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "IP_ADRESSE",
+    "port": 43974,
+    "version": "1.20.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is kzoxmazpx ",
+        "I want be alone ",
+        "Visit my GitHub page! github.com/kzoxmazpx"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": false,
+    "auto-recconect-delay": 5000
+  }
+}
