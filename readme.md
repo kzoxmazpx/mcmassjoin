@@ -9,14 +9,15 @@ This project enables mass joining of Minecraft servers by creating multiple bots
 - Utilizes random proxies from a `proxies.txt` file for connecting to the Minecraft server.
 - Handles events such as connections, disconnections, kicks, and errors for each bot.
 
-`![Exemple](screenshot.png)`
+## Screenshot
+
+![Exemple](screenshot.png)
+
+Replace `screenshot.png` with the actual relative path to your screenshot file.
 
 ## Installation
 
-### Étapes d'installation
-1. Installer Dependences :
-   ```bash
-   npm install mineflayer mineflayer-pathfinder express
+### Installation Steps
 
 1. **Clone the repository**
    ```bash
